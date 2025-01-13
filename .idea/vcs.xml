@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/authentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/favorites" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/feed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/media" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/messages" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/notifications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/posts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/user" vcs="Git" />
+  </component>
+</project>
